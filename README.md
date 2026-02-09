@@ -36,6 +36,7 @@ A curated list of awesome Voice AI resources, tools, and projects.
 - [Coval](#coval) - Eval
 - [Revia](#revia) - Vertical
 - [Cozmox](#cozmox) - Vertical
+- [ClawdTalk](#clawdtalk) - Platform
 - [Apten](#apten) - Vertical
 - [Contrario](#contrario) - Vertical
 - [Wattson Health](#wattson-health) - Vertical
@@ -3483,6 +3484,18 @@ A curated list of awesome Voice AI resources, tools, and projects.
 
 
 **Website:** [https://bland.com](https://bland.com)
+
+---
+
+### <a id='clawdtalk'></a>ClawdTalk
+
+**Category:** Platform
+
+**Description:** Open source voice calling skill for AI agents, enabling natural phone conversations with tool integration. Powered by Telnyx.
+
+
+
+**Website:** [https://github.com/team-telnyx/clawdtalk-client](https://github.com/team-telnyx/clawdtalk-client)
 
 ---
 

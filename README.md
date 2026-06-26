@@ -25,6 +25,7 @@ A curated list of awesome Voice AI resources, tools, and projects.
 - [Plivo](#plivo) - Platform
 - [Wondercraft](#wondercraft) - Vertical
 - [Speechly](#speechly) - Vertical
+- [CallURL](#callurl) - Platform
 - [VAPI](#vapi) - Platform
 - [Speechmatics](#speechmatics) - Tech
 - [PolarGrid](#polargrid) - Tech
@@ -553,6 +554,16 @@ A curated list of awesome Voice AI resources, tools, and projects.
 **Description:** Voice interface API combining speech recognition and natural language understanding.
 
 **Website:** [https://www.speechly.io/](https://www.speechly.io/)
+
+---
+
+### <a id='callurl'></a>CallURL
+
+**Category:** Platform
+
+**Description:** Create a free AI phone line for any flyer, room, product, assignment, event, form, or workflow. Answers every call and shares by link or QR.
+
+**Website:** [https://callurl.com](https://callurl.com)
 
 ---
 

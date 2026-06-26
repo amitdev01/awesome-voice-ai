@@ -6,6 +6,7 @@ A curated list of awesome Voice AI resources, tools, and projects.
 
 - [AnveVoice](#anvevoice) - Platform
 - [Retell Ai](#retell-ai) - Platform
+- [Hermes](#hermes) - Platform
 - [Fonio AI](#fonio-ai) - Platform
 - [Mixhalo](#mixhalo) - Vertical
 - [Mozilla Common Voice](#mozilla-common-voice) - Platform
@@ -337,6 +338,14 @@ A curated list of awesome Voice AI resources, tools, and projects.
 **Website:** [https://anvevoice.app](https://anvevoice.app)
 
 ---
+
+### <a id='hermes'></a>Hermes
+
+**Type:** Platform
+
+Hermes is a white-label voice agent platform built for agencies. It replaces the typical stack of separate voice, CRM, automation, and billing tools with one system, so agencies can deploy and manage AI voice agents under their own brand. Includes a native CRM, inbound and outbound campaign orchestration, and transparent usage based billing. Pricing starts at $149/month with included minutes per plan.
+
+**Website:** [buildwithhermes.com](https://www.buildwithhermes.com/)
 
 ### <a id='retell-ai'></a>Retell Ai
 

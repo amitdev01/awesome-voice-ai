@@ -245,6 +245,7 @@ A curated list of awesome Voice AI resources, tools, and projects.
 - [Callmai](#callmai) - Vertical
 - [Vaaniresearch](#vaaniresearch) - Platform
 - [ElevenLabs](#elevenlabs) - Tech
+- [RunAPI ElevenLabs SDK](#runapi-elevenlabs-sdk) - Tech
 - [LiveKit](#livekit) - Tech
 - [Whisper](#whisper) - Tech
 - [Broccoli AI](#broccoli-ai) - Vertical
@@ -3119,6 +3120,16 @@ A curated list of awesome Voice AI resources, tools, and projects.
 **Description:** Advanced AI voice synthesis platform with emotional and multilingual capabilities.
 
 **Website:** [https://elevenlabs.io/](https://elevenlabs.io/)
+
+---
+
+### <a id='runapi-elevenlabs-sdk'></a>RunAPI ElevenLabs SDK
+
+**Category:** Tech
+
+**Description:** Multi-language SDK for building ElevenLabs text-to-speech and voice workflows through RunAPI.
+
+**Website:** [https://github.com/runapi-ai/elevenlabs-sdk](https://github.com/runapi-ai/elevenlabs-sdk)
 
 ---
 

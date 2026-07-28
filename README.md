@@ -326,6 +326,7 @@ A curated list of awesome Voice AI resources, tools, and projects.
 - [Fluents](#fluents) - Vertical
 - [Maple](#maple) - Vertical
 - [LLMRTC](#llmrtc) - Tech
+- [PipeCrab](#pipecrab) - Tech
 ## Detailed Descriptions
 
 ### <a id='anvevoice'></a>AnveVoice
@@ -4049,6 +4050,16 @@ A curated list of awesome Voice AI resources, tools, and projects.
 **Description:** TypeScript SDK for building real-time voice + vision AI apps over WebRTC (streaming STT→LLM→TTS, server-side VAD + barge-in, provider-agnostic orchestration).
 
 **Website:** [https://github.com/llmrtc/llmrtc](https://github.com/llmrtc/llmrtc)
+
+---
+
+### <a id='pipecrab'></a>PipeCrab
+
+**Category:** Tech
+
+**Description:** Cross-platform voice agent framework for write-once, run-anywhere voice pipelines.
+
+**Website:** [pipecrab.rs](https://pipecrab.rs)
 
 ---
 

@@ -326,6 +326,7 @@ A curated list of awesome Voice AI resources, tools, and projects.
 - [Fluents](#fluents) - Vertical
 - [Maple](#maple) - Vertical
 - [LLMRTC](#llmrtc) - Tech
+- [Workforce Wave](#workforce-wave) - Vertical
 ## Detailed Descriptions
 
 ### <a id='anvevoice'></a>AnveVoice
@@ -4049,6 +4050,16 @@ A curated list of awesome Voice AI resources, tools, and projects.
 **Description:** TypeScript SDK for building real-time voice + vision AI apps over WebRTC (streaming STT→LLM→TTS, server-side VAD + barge-in, provider-agnostic orchestration).
 
 **Website:** [https://github.com/llmrtc/llmrtc](https://github.com/llmrtc/llmrtc)
+
+---
+
+### <a id='workforce-wave'></a>Workforce Wave
+
+**Category:** Vertical
+
+**Description:** AI voice receptionist for small and mid-sized businesses, handling 24/7 call answering, appointment booking, lead capture, and after-hours coverage.
+
+**Website:** [https://www.workforcewave.com/](https://www.workforcewave.com/)
 
 ---
 

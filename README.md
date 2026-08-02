@@ -4,6 +4,7 @@ A curated list of awesome Voice AI resources, tools, and projects.
 
 ## Quick List
 
+- [AI Dictation](#ai-dictation) - Vertical
 - [AnveVoice](#anvevoice) - Platform
 - [Retell Ai](#retell-ai) - Platform
 - [Fonio AI](#fonio-ai) - Platform
@@ -327,6 +328,16 @@ A curated list of awesome Voice AI resources, tools, and projects.
 - [Maple](#maple) - Vertical
 - [LLMRTC](#llmrtc) - Tech
 ## Detailed Descriptions
+
+### <a id='ai-dictation'></a>AI Dictation
+
+**Category:** Vertical
+
+**Description:** Open-source voice-to-text app for macOS, Windows, iOS, and Android with offline recognition on supported devices and optional cloud transcription and cleanup.
+
+**Website:** [https://aidictation.com](https://aidictation.com)
+
+---
 
 ### <a id='anvevoice'></a>AnveVoice
 

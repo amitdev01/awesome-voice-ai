@@ -4,6 +4,7 @@ A curated list of awesome Voice AI resources, tools, and projects.
 
 ## Quick List
 
+- [Dvaarik](#dvaarik) - Platform
 - [AnveVoice](#anvevoice) - Platform
 - [Retell Ai](#retell-ai) - Platform
 - [Fonio AI](#fonio-ai) - Platform
@@ -327,6 +328,16 @@ A curated list of awesome Voice AI resources, tools, and projects.
 - [Maple](#maple) - Vertical
 - [LLMRTC](#llmrtc) - Tech
 ## Detailed Descriptions
+
+### <a id='dvaarik'></a>Dvaarik
+
+**Category:** Platform
+
+**Description:** AI receptionist platform for voice calls, WhatsApp, Instagram, web chat, bookings, payment links, and white-label agency delivery.
+
+**Website:** [https://www.dvaarik.com](https://www.dvaarik.com)
+
+---
 
 ### <a id='anvevoice'></a>AnveVoice
 

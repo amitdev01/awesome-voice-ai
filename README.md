@@ -4057,9 +4057,9 @@ A curated list of awesome Voice AI resources, tools, and projects.
 
 **Category:** Platform
 
-**Description:** White-label voice agent platform for agencies, with built-in CRM, campaign orchestration, and per-client usage billing. Plans from $149/month with 300 included minutes.
+**Description:** Operating platform for AI voice agencies to deploy and manage voice agents under their own brand, with built-in CRM, campaign engine, per-client workspaces, and usage billing. From $149/mo.
 
-**Website:** [https://buildwithhermes.com](https://buildwithhermes.com)
+**Website:** [https://www.buildwithhermes.com/](https://www.buildwithhermes.com/)
 
 ---
 

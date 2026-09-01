@@ -293,6 +293,7 @@ A curated list of awesome Voice AI resources, tools, and projects.
 - [Testzilla](#testzilla) - Eval
 - [Viadialog](#viadialog) - Platform
 - [Rounded](#rounded) - Platform
+- [Kalyvox](#kalyvox) - Platform
 - [Hamsa](#hamsa) - Platform
 - [Stimuler](#stimuler) - Vertical
 - [Speechtonote](#speechtonote) - Vertical
@@ -3666,6 +3667,18 @@ A curated list of awesome Voice AI resources, tools, and projects.
 
 
 **Website:** [https://callrounded.com/](https://callrounded.com/)
+
+---
+
+### <a id='kalyvox'></a>Kalyvox
+
+**Category:** Platform
+
+**Description:** AI phone receptionist for small businesses that answers calls 24/7, qualifies callers, and sends real-time notifications.
+
+
+
+**Website:** [https://kalyvox.ai/en/24-7-answering-service](https://kalyvox.ai/en/24-7-answering-service)
 
 ---
 

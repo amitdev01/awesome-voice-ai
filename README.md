@@ -123,7 +123,7 @@ A curated list of awesome Voice AI resources, tools, and projects.
 - [Talkie](#talkie) - Vertical
 - [Sanas AI](#sanas-ai) - Platform
 - [Pyannote AI](#pyannote-ai) - Tech
-- [Thunder Phone](#thunder-phone) - Platform
+- [ThunderPhone](#thunderphone) - Platform
 - [Balto AI](#balto-ai) - Vertical
 - [Synthflow](#synthflow) - Platform
 - [Hyperbound](#hyperbound) - Vertical
@@ -1695,11 +1695,11 @@ A curated list of awesome Voice AI resources, tools, and projects.
 
 ---
 
-### <a id='thunder-phone'></a>Thunder Phone
+### <a id='thunderphone'></a>ThunderPhone
 
 **Category:** Platform
 
-**Description:** Platform for no-code, AI-powered business phone call automation and integration.
+**Description:** AI phone agents for inbound and outbound calls in 47 languages, with an OpenAI-Realtime-compatible speech-to-speech API and official Pipecat and LiveKit Agents plugins.
 
 
 

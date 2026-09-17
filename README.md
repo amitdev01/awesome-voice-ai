@@ -326,6 +326,7 @@ A curated list of awesome Voice AI resources, tools, and projects.
 - [Fluents](#fluents) - Vertical
 - [Maple](#maple) - Vertical
 - [LLMRTC](#llmrtc) - Tech
+- [Gradium](#gradium) - Tech
 ## Detailed Descriptions
 
 ### <a id='anvevoice'></a>AnveVoice
@@ -4049,6 +4050,16 @@ A curated list of awesome Voice AI resources, tools, and projects.
 **Description:** TypeScript SDK for building real-time voice + vision AI apps over WebRTC (streaming STT→LLM→TTS, server-side VAD + barge-in, provider-agnostic orchestration).
 
 **Website:** [https://github.com/llmrtc/llmrtc](https://github.com/llmrtc/llmrtc)
+
+---
+
+### <a id='gradium'></a>Gradium
+
+**Category:** Tech
+
+**Description:** Real-time voice AI platform: streaming text-to-speech and speech-to-text with semantic turn detection for voice agents, live speech-to-speech translation, instant voice cloning, and voice design from a text prompt. English, French, German, Spanish, Portuguese. Python SDK; open-source Rust voice agent framework (Gradbot).
+
+**Website:** [https://gradium.ai](https://gradium.ai)
 
 ---
 

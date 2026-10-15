@@ -10,6 +10,7 @@ A curated list of awesome Voice AI resources, tools, and projects.
 - [Mixhalo](#mixhalo) - Vertical
 - [Mozilla Common Voice](#mozilla-common-voice) - Platform
 - [Cuckoo](#cuckoo) - Vertical
+- [DictaFlow](#dictaflow) - Vertical
 - [Hams.ai](#hamsai) - Platform
 - [Bespoken AI](#bespoken-ai) - Eval
 - [3Scribe](#3scribe) - Vertical
@@ -389,6 +390,16 @@ A curated list of awesome Voice AI resources, tools, and projects.
 **Description:** AI interpreter for global teams enabling multilingual communication.
 
 **Website:** [https://www.cuckoo.so/](https://www.cuckoo.so/)
+
+---
+
+### <a id='dictaflow'></a>DictaFlow
+
+**Category:** Vertical
+
+**Description:** Hold-to-talk dictation for Mac, Windows, iPhone, and Android, with custom vocabulary and a desktop typing mode for Citrix and RDP sessions.
+
+**Website:** [https://dictaflow.io](https://dictaflow.io)
 
 ---
 

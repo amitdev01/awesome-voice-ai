@@ -326,6 +326,7 @@ A curated list of awesome Voice AI resources, tools, and projects.
 - [Fluents](#fluents) - Vertical
 - [Maple](#maple) - Vertical
 - [LLMRTC](#llmrtc) - Tech
+- [Pulse](#pulse) - Vertical
 ## Detailed Descriptions
 
 ### <a id='anvevoice'></a>AnveVoice
@@ -4049,6 +4050,16 @@ A curated list of awesome Voice AI resources, tools, and projects.
 **Description:** TypeScript SDK for building real-time voice + vision AI apps over WebRTC (streaming STT→LLM→TTS, server-side VAD + barge-in, provider-agnostic orchestration).
 
 **Website:** [https://github.com/llmrtc/llmrtc](https://github.com/llmrtc/llmrtc)
+
+---
+
+### <a id='pulse'></a>Pulse
+
+**Category:** Vertical
+
+**Description:** AI-moderated customer interviews for market research, run by voice, video, text chat, phone call and WhatsApp.
+
+**Website:** [https://pulsecorp.co](https://pulsecorp.co)
 
 ---
 

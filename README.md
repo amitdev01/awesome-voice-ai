@@ -4,6 +4,8 @@ A curated list of awesome Voice AI resources, tools, and projects.
 
 ## Quick List
 
+- [ContextAI](#contextai) - Eval
+
 - [AnveVoice](#anvevoice) - Platform
 - [Retell Ai](#retell-ai) - Platform
 - [Fonio AI](#fonio-ai) - Platform
@@ -4052,6 +4054,18 @@ A curated list of awesome Voice AI resources, tools, and projects.
 
 ---
 
+### <a id='contextai'></a>ContextAI
+
+**Category:** Eval
+
+**Description:** Evaluate voice and text agents with scenarios, synthetic personas, and configurable metrics. Hosted MCP uses Streamable HTTP and browser OAuth; requires an active ContextAI workspace and configured agent connection.
+
+**Website:** [ContextAI voice-agent testing](https://contextqa.com/solutions/voice-agent-testing/)
+
+**MCP documentation:** [Connection and evaluation guide](https://github.com/indivatools/contextqa-skills/blob/4a67f1b297ba18f8253eaaf0f2195437965715b8/docs/contextai-mcp.md)
+
+---
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -4062,3 +4076,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 *Last updated: 2025-12-22*
+

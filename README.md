@@ -326,6 +326,8 @@ A curated list of awesome Voice AI resources, tools, and projects.
 - [Fluents](#fluents) - Vertical
 - [Maple](#maple) - Vertical
 - [LLMRTC](#llmrtc) - Tech
+- [NovaSynth by Noveum](#novasynth) - Eval
+
 ## Detailed Descriptions
 
 ### <a id='anvevoice'></a>AnveVoice
@@ -4049,6 +4051,16 @@ A curated list of awesome Voice AI resources, tools, and projects.
 **Description:** TypeScript SDK for building real-time voice + vision AI apps over WebRTC (streaming STT→LLM→TTS, server-side VAD + barge-in, provider-agnostic orchestration).
 
 **Website:** [https://github.com/llmrtc/llmrtc](https://github.com/llmrtc/llmrtc)
+
+---
+
+### <a id='novasynth'></a>NovaSynth by Noveum
+
+**Category:** Eval
+
+**Description:** Commercial freemium platform for testing voice agents over phone or LiveKit with configurable AI callers, batch calls, recordings, transcripts, and regression evaluations.
+
+**Website:** [https://noveum.ai/en/novasynth](https://noveum.ai/en/novasynth)
 
 ---
 

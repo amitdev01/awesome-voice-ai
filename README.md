@@ -7,6 +7,7 @@ A curated list of awesome Voice AI resources, tools, and projects.
 - [AnveVoice](#anvevoice) - Platform
 - [Retell Ai](#retell-ai) - Platform
 - [Fonio AI](#fonio-ai) - Platform
+- [SwiftCall](#swiftcall) - Vertical
 - [Mixhalo](#mixhalo) - Vertical
 - [Mozilla Common Voice](#mozilla-common-voice) - Platform
 - [Cuckoo](#cuckoo) - Vertical
@@ -357,6 +358,16 @@ A curated list of awesome Voice AI resources, tools, and projects.
 **Description:** German-language AI telephone assistant for business call automation.
 
 **Website:** [http://fonio.ai/](http://fonio.ai/)
+
+---
+
+### <a id='swiftcall'></a>SwiftCall
+
+**Category:** Vertical
+
+**Description:** AI receptionist and multipurpose agents for small businesses: answers and qualifies calls, books appointments, follows up leads in the CRM. Live demo line at swiftcall.org/call-an-ai.
+
+**Website:** [https://swiftcall.org/ai-agents](https://swiftcall.org/ai-agents)
 
 ---
 
